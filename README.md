@@ -11,10 +11,9 @@ Consiste em um sistema para consultório odontologico, contendo Agendamento de h
 
 As tecnologias utilizadas nesse projeto foram escolhidas para juntas garantir velocidade e facilidade ao grupo, alem de aprendizado das mesmas. Que são:
 
-. Java EE - Linguagem de programação Back-End;
-. HTML e CSS - Front-End;
+. Java EE - Linguagem de programação Back-End; 
+. HTML e CSS - Front-End; 
 . NetBeans - IDE integrado;
-
 
 Confesso que o projeto está um pouco que "amador", mas no momento da codificação só pensavamos no correto funcionamento do sistema, mas aprederemos com o tempo, espero que entendam. ;) 
 
