@@ -15,6 +15,7 @@ As tecnologias utilizadas nesse projeto foram escolhidas para juntas garantir ve
 . HTML e CSS - Front-End;
 . NetBeans - IDE integrado;
 
+
 Confesso que o projeto está um pouco que "amador", mas no momento da codificação só pensavamos no correto funcionamento do sistema, mas aprederemos com o tempo, espero que entendam. ;) 
 
 PQ CRIAR UM REPOSITÓRIO?
